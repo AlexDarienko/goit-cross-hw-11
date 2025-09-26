@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "HabitFlow Perf Opt",
+    "slug": "habitflow-perf-opt",
+    "scheme": "habitflow",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "orientation": "portrait",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    }
+  }
+}

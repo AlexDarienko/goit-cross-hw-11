@@ -1,0 +1,1 @@
+export const SCREENS={TAB_HOME:'TabHome',TAB_STATS:'TabStatistics',TAB_PROFILE:'TabProfile',HOME:'Home',ADD_HABIT:'AddHabit',HABIT_DETAILS:'HabitDetails',DRAWER_ROOT:'RootDrawer',SUPPORT:'Support',SETTINGS:'Settings'};

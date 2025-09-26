@@ -1,0 +1,1 @@
+import dayjs from 'dayjs'; export const formatTime=(iso)=>dayjs(iso).format('HH:mm');
